@@ -1,0 +1,61 @@
+{
+  "id": "5",
+  "name": "Intermediate Verb Tenses",
+  "lessons": [
+    {
+      "id": "1",
+      "name": "Present Continuous",
+      "explanation": "Present continuous tense describes actions happening now.",
+      "example": "She is reading a book.",
+      "quiz": {
+        "question": "Which is present continuous?",
+        "options": ["She reads.", "She is reading.", "She read.", "She will read."],
+        "correct": 1
+      }
+    },
+    {
+      "id": "2",
+      "name": "Past Continuous",
+      "explanation": "Past continuous tense describes actions that were ongoing in the past.",
+      "example": "They were playing football.",
+      "quiz": {
+        "question": "Which is past continuous?",
+        "options": ["They play.", "They played.", "They are playing.", "They were playing."],
+        "correct": 3
+      }
+    },
+    {
+      "id": "3",
+      "name": "Present Perfect",
+      "explanation": "Present perfect tense connects past actions to the present.",
+      "example": "I have finished my homework.",
+      "quiz": {
+        "question": "Which is present perfect?",
+        "options": ["I finish.", "I finished.", "I have finished.", "I am finishing."],
+        "correct": 2
+      }
+    },
+    {
+      "id": "4",
+      "name": "Past Perfect",
+      "explanation": "Past perfect tense describes an action completed before another past action.",
+      "example": "She had left before he arrived.",
+      "quiz": {
+        "question": "Which is past perfect?",
+        "options": ["She leaves.", "She left.", "She had left.", "She is leaving."],
+        "correct": 2
+      }
+    },
+    {
+      "id": "5",
+      "name": "Future Continuous",
+      "explanation": "Future continuous tense describes actions that will be ongoing in the future.",
+      "example": "They will be traveling tomorrow.",
+      "quiz": {
+        "question": "Which is future continuous?",
+        "options": ["They travel.", "They will travel.", "They will be traveling.", "They traveled."],
+        "correct": 2
+      }
+    }
+  ]
+}

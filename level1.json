@@ -1,0 +1,50 @@
+{
+  "id": "1",
+  "name": "Parts of Speech",
+  "lessons": [
+    {
+      "id": "1",
+      "name": "Nouns",
+      "explanation": "Nouns are words that name people, places, things, or ideas. They can be singular or plural, countable or uncountable, proper or common.",
+      "example": "cat, London, happiness, water",
+      "quiz": {
+        "question": "Which word is a noun?",
+        "options": ["run", "happy", "city", "quickly"],
+        "correct": 2
+      }
+    },
+    {
+      "id": "2",
+      "name": "Pronouns",
+      "explanation": "Pronouns are words that replace nouns in a sentence. Types include personal, possessive, reflexive, and more.",
+      "example": "he, she, it, themselves, ours",
+      "quiz": {
+        "question": "Which word is a pronoun?",
+        "options": ["dog", "they", "London", "run"],
+        "correct": 1
+      }
+    },
+    {
+      "id": "3",
+      "name": "Verbs",
+      "explanation": "Verbs are words that show action or a state of being. Types include action, linking, and auxiliary verbs.",
+      "example": "run, is, have, think",
+      "quiz": {
+        "question": "Which word is a verb?",
+        "options": ["cat", "blue", "jump", "quickly"],
+        "correct": 2
+      }
+    },
+    {
+      "id": "4",
+      "name": "Adjectives",
+      "explanation": "Adjectives describe or modify nouns. They can show quality, quantity, or comparison.",
+      "example": "big, blue, happier, most beautiful",
+      "quiz": {
+        "question": "Which word is an adjective?",
+        "options": ["run", "happily", "tall", "city"],
+        "correct": 2
+      }
+    }
+  ]
+}

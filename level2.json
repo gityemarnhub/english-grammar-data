@@ -1,0 +1,39 @@
+{
+  "id": "2",
+  "name": "Basic Sentence Structure",
+  "lessons": [
+    {
+      "id": "1",
+      "name": "Subject, Verb, Object",
+      "explanation": "Most English sentences follow the Subject-Verb-Object (SVO) order.",
+      "example": "She (subject) eats (verb) apples (object).",
+      "quiz": {
+        "question": "What is the object in: 'Tom reads a book'?",
+        "options": ["Tom", "reads", "a book", "reads a book"],
+        "correct": 2
+      }
+    },
+    {
+      "id": "2",
+      "name": "Phrases and Clauses",
+      "explanation": "A phrase is a group of words without a subject-verb pair. A clause has a subject and a verb.",
+      "example": "Phrase: in the morning | Clause: She runs.",
+      "quiz": {
+        "question": "Which is a clause?",
+        "options": ["in the park", "after lunch", "he sings", "very quickly"],
+        "correct": 2
+      }
+    },
+    {
+      "id": "3",
+      "name": "Simple Sentences",
+      "explanation": "A simple sentence has one independent clause.",
+      "example": "The dog barks.",
+      "quiz": {
+        "question": "Which is a simple sentence?",
+        "options": ["The dog barks.", "When the dog barks", "Barking loudly", "Because the dog barks"],
+        "correct": 0
+      }
+    }
+  ]
+}

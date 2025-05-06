@@ -1,0 +1,39 @@
+{
+  "id": "3",
+  "name": "Verb Tenses",
+  "lessons": [
+    {
+      "id": "1",
+      "name": "Present Simple",
+      "explanation": "Present simple tense is used for habits, facts, and general truths.",
+      "example": "She walks to school.",
+      "quiz": {
+        "question": "Which sentence is in present simple?",
+        "options": ["She walked to school.", "She walks to school.", "She is walking to school.", "She will walk to school."],
+        "correct": 1
+      }
+    },
+    {
+      "id": "2",
+      "name": "Past Simple",
+      "explanation": "Past simple tense is used for actions that happened in the past.",
+      "example": "He played football yesterday.",
+      "quiz": {
+        "question": "Which word is in past simple?",
+        "options": ["plays", "playing", "played", "play"],
+        "correct": 2
+      }
+    },
+    {
+      "id": "3",
+      "name": "Future Simple",
+      "explanation": "Future simple tense is used for actions that will happen in the future.",
+      "example": "They will visit Paris.",
+      "quiz": {
+        "question": "Which is future simple?",
+        "options": ["They visit Paris.", "They are visiting Paris.", "They will visit Paris.", "They visited Paris."],
+        "correct": 2
+      }
+    }
+  ]
+}

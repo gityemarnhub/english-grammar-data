@@ -1,0 +1,28 @@
+{
+  "id": "4",
+  "name": "Articles and Punctuation",
+  "lessons": [
+    {
+      "id": "1",
+      "name": "Articles (a, an, the)",
+      "explanation": "Articles are words that define a noun as specific or unspecific.",
+      "example": "a cat, an apple, the sun",
+      "quiz": {
+        "question": "Which article fits: ___ elephant?",
+        "options": ["a", "an", "the", "no article"],
+        "correct": 1
+      }
+    },
+    {
+      "id": "2",
+      "name": "Basic Punctuation",
+      "explanation": "Punctuation marks are used to separate sentences and clarify meaning.",
+      "example": "period (.), comma (,), question mark (?)",
+      "quiz": {
+        "question": "Which is a punctuation mark?",
+        "options": ["and", ".", "cat", "run"],
+        "correct": 1
+      }
+    }
+  ]
+}
