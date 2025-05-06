@@ -5,45 +5,253 @@
     {
       "id": "1",
       "name": "Nouns",
-      "explanation": "Nouns are words that name people, places, things, or ideas. They can be singular or plural, countable or uncountable, proper or common.",
+      "explanation": "Nouns are words that name people, places, things, or ideas. They are fundamental building blocks of sentences, providing the subjects and objects of our thoughts and discussions.  Nouns can be classified in several ways:\n\n* **Common nouns** refer to general categories (e.g., city, dog, book).  They are not capitalized unless they begin a sentence.\n* **Proper nouns** refer to specific entities and are always capitalized (e.g., London, Fido, Harry Potter).\n* **Concrete nouns** are tangible things you can perceive with your senses (e.g., apple, car, desk).\n* **Abstract nouns** represent intangible concepts, feelings, or qualities (e.g., happiness, freedom, justice).\n* **Countable nouns** can be counted and have singular and plural forms (e.g., one apple, two apples; one car, many cars).\n* **Uncountable nouns** (also called mass nouns) cannot be counted and generally do not have a plural form (e.g., water, rice, information).  We use quantifiers like 'much' or 'little' with them, not numbers.\n\nNouns commonly function as the subject, object, or complement of a verb, and they can be modified by adjectives. They can also show possession (e.g., the *boy's* hat).",
       "example": "cat, London, happiness, water",
       "quiz": {
         "question": "Which word is a noun?",
         "options": ["run", "happy", "city", "quickly"],
-        "correct": 2
+        "correct": 2,
+        "questions": [
+          {
+            "question": "Which of these is a proper noun?",
+            "options": ["river", "mountain", "Amazon", "tree"],
+            "correct": 2
+          },
+          {
+            "question": "Which of these is an uncountable noun?",
+            "options": ["chair", "water", "book", "song"],
+            "correct": 1
+          },
+          {
+            "question": "In the sentence 'The dog barks loudly,' which word is the noun?",
+            "options": ["The", "dog", "barks", "loudly"],
+            "correct": 1
+          },
+          {
+            "question": "Which word can be both singular and plural by adding -s?",
+            "options": ["information", "furniture", "child", "advice"],
+            "correct": 2
+          },
+          {
+            "question": "Which noun represents a feeling?",
+            "options": ["table", "joy", "cloud", "road"],
+            "correct": 1
+          },
+           {
+            "question": "Which word is a common noun?",
+            "options": ["Asia", "Mount Everest", "continent", "Pacific Ocean"],
+            "correct": 2
+          },
+          {
+            "question": "Which of the following is NOT a noun?",
+            "options": ["honesty", "beauty", "quickly", "freedom"],
+            "correct": 2
+          },
+          {
+            "question": "Which noun refers to a place?",
+            "options": ["idea", "school", "event", "time"],
+            "correct": 2
+          },
+          {
+             "question": "Which noun can be both countable and uncountable?",
+             "options": ["rice", "sugar", "time", "love"],
+             "correct": 3
+           },
+          {
+            "question": "Which of these is a concrete noun?",
+            "options": ["belief", "dream", "statue", "thought"],
+            "correct": 2
+          }
+        ]
       }
     },
     {
       "id": "2",
       "name": "Pronouns",
-      "explanation": "Pronouns are words that replace nouns in a sentence. Types include personal, possessive, reflexive, and more.",
+      "explanation": "Pronouns are words that replace nouns or noun phrases in a sentence, avoiding unnecessary repetition and making sentences more concise and fluid.  They refer to someone or something already mentioned or implied. There are several types of pronouns:\n\n* **Personal pronouns** refer to specific people or things (e.g., I, you, he, she, it, we, they, me, him, her, us, them).  They can be subjective (I, you, he, etc.) or objective (me, you, him, etc.).\n* **Possessive pronouns** show ownership (e.g., my, your, his, her, its, our, their, mine, yours, his, hers, ours, theirs).\n* **Reflexive pronouns** refer back to the subject of the sentence (e.g., myself, yourself, himself, herself, itself, ourselves, yourselves, themselves).  They are used when the subject and object are the same.\n* **Intensive pronouns** are used to emphasize the noun or pronoun they refer to. (e.g., myself, yourself, himself, herself, itself, ourselves, yourselves, themselves).\n* **Demonstrative pronouns** point out specific people or things (e.g., this, that, these, those).\n* **Interrogative pronouns** are used to ask questions (e.g., who, whom, whose, what, which).\n* **Relative pronouns** introduce relative clauses, providing additional information about a noun (e.g., who, whom, whose, which, that).\n* **Indefinite pronouns** refer to unspecified people or things (e.g., some, any, no, every, all, few, many, one, each, other, none).\n* **Reciprocal pronouns** express mutual actions or relationships (e.g., each other, one another).",
       "example": "he, she, it, themselves, ours",
       "quiz": {
         "question": "Which word is a pronoun?",
         "options": ["dog", "they", "London", "run"],
-        "correct": 1
+        "correct": 1,
+        "questions": [
+          {
+            "question": "Which of these is a personal pronoun?",
+            "options": ["this", "that", "she", "whose"],
+            "correct": 2
+          },
+          {
+            "question": "Which of these is a possessive pronoun?",
+            "options": ["my", "mine", "I", "me"],
+            "correct": 1
+          },
+          {
+            "question": "Which pronoun is used to refer back to the subject?",
+            "options": ["you", "yourself", "yours", "your"],
+            "correct": 1
+          },
+          {
+            "question": "Which word is a demonstrative pronoun?",
+            "options": ["who", "what", "these", "why"],
+            "correct": 2
+          },
+          {
+            "question": "Which pronoun is used to ask a question?",
+            "options": ["which", "that", "it", "they"],
+            "correct": 0
+          },
+          {
+            "question": "Which pronoun introduces a relative clause?",
+            "options": ["this", "that", "which", "those"],
+            "correct": 2
+          },
+          {
+             "question": "Which is an example of an indefinite pronoun?",
+             "options": ["he", "she", "some", "they"],
+             "correct": 2
+           },
+          {
+            "question": "Which pronoun shows a mutual relationship?",
+            "options": ["themselves", "one another", "ourselves", "yourself"],
+            "correct": 1
+          },
+          {
+            "question": "In the sentence 'The book is mine,' which word is the pronoun?",
+            "options": ["The", "book", "is", "mine"],
+            "correct": 3
+          },
+          {
+            "question": "Choose the correct pronoun: 'The cat hurt ______.'",
+            "options": ["itself", "its", "it's", "it"],
+            "correct": 0
+          }
+        ]
       }
     },
     {
       "id": "3",
       "name": "Verbs",
-      "explanation": "Verbs are words that show action or a state of being. Types include action, linking, and auxiliary verbs.",
+      "explanation": "Verbs are words that express actions, occurrences, or states of being. They are the core of a sentence, indicating what the subject does or is.  There are several types of verbs:\n\n* **Action verbs** describe actions (e.g., run, jump, eat, write). They can be transitive (taking an object) or intransitive (not taking an object).\n* **Linking verbs** connect the subject to a noun or adjective that describes the subject (e.g., be, become, seem, appear).  They do not show action.\n* **Auxiliary verbs** (also called helping verbs) combine with main verbs to form verb phrases. They indicate tense, mood, or voice (e.g., be, have, do, can, will, should).\n* **Modal verbs** are a type of auxiliary verb that express possibility, necessity, permission, etc. (e.g., can, could, may, might, must, shall, should, will, would).\n\nVerbs also have different forms (e.g., base form, past tense, past participle, present participle) to indicate tense (time) and aspect (how the action unfolds).  They also change form to agree with the subject (e.g., 'I run' vs. 'He runs').",
       "example": "run, is, have, think",
       "quiz": {
         "question": "Which word is a verb?",
         "options": ["cat", "blue", "jump", "quickly"],
-        "correct": 2
+        "correct": 2,
+        "questions": [
+          {
+            "question": "Which of these is an action verb?",
+            "options": ["is", "seem", "run", "become"],
+            "correct": 2
+          },
+          {
+            "question": "Which of these is a linking verb?",
+            "options": ["run", "jump", "is", "write"],
+            "correct": 2
+          },
+          {
+            "question": "Which of these is an auxiliary verb?",
+            "options": ["can", "run", "write", "think"],
+            "correct": 0
+          },
+          {
+            "question": "In the sentence 'She will sing,' which word is the auxiliary verb?",
+            "options": ["She", "will", "sing", "None"],
+            "correct": 1
+          },
+          {
+            "question": "Which verb tense is used in the sentence 'I ate dinner'?",
+            "options": ["Present", "Past", "Future", "Present Perfect"],
+            "correct": 1
+          },
+          {
+            "question": "Which of the following is NOT a verb?",
+            "options": ["dance", "beautiful", "sing", "write"],
+            "correct": 1
+          },
+          {
+            "question": "Which verb expresses a state of being?",
+            "options": ["run", "is", "jump", "think"],
+            "correct": 1
+          },
+          {
+            "question": "Which verb form is used in the sentence: 'They are running'?",
+            "options": ["base form", "past tense", "present participle", "past participle"],
+            "correct": 2
+          },
+          {
+            "question": "Choose the correct verb: 'The bird ______ fly.",
+            "options": ["can", "could", "can to", "caned"],
+            "correct": 0
+          },
+          {
+            "question": "Which verb shows possibility?",
+            "options": ["must", "will", "might", "shall"],
+            "correct": 2
+          }
+        ]
       }
     },
     {
       "id": "4",
       "name": "Adjectives",
-      "explanation": "Adjectives describe or modify nouns. They can show quality, quantity, or comparison.",
+      "explanation": "Adjectives are words that describe or modify nouns or pronouns, providing more information about their qualities, characteristics, or states. They enrich our language by adding detail and precision.  Adjectives can be categorized based on what they describe:\n\n* **Descriptive adjectives** describe the qualities of a noun (e.g., big, blue, happy, tall).\n* **Quantitative adjectives** indicate the quantity or number of a noun (e.g., few, many, some, ten).\n* **Demonstrative adjectives** point out specific nouns (e.g., this, that, these, those).\n* **Possessive adjectives** show ownership (e.g., my, your, his, her, its, our, their).\n* **Interrogative adjectives** are used in questions (e.g., which, what, whose).\n\nAdjectives can also be used in comparative and superlative forms to show degrees of comparison (e.g., big, bigger, biggest; beautiful, more beautiful, most beautiful).  The position of adjectives in a sentence is typically before the noun they modify (e.g., 'the blue car') or after a linking verb (e.g., 'The car is blue').",
       "example": "big, blue, happier, most beautiful",
       "quiz": {
         "question": "Which word is an adjective?",
         "options": ["run", "happily", "tall", "city"],
-        "correct": 2
+        "correct": 2,
+        "questions": [
+          {
+            "question": "Which of these is a descriptive adjective?",
+            "options": ["some", "that", "blue", "ten"],
+            "correct": 2
+          },
+          {
+            "question": "Which of these is a quantitative adjective?",
+            "options": ["big", "few", "happy", "tall"],
+            "correct": 1
+          },
+          {
+            "question": "Which of these is a demonstrative adjective?",
+            "options": ["my", "this", "her", "whose"],
+            "correct": 1
+          },
+          {
+            "question": "In the phrase 'her book,' which word is the adjective?",
+            "options": ["her", "book", "is", "the"],
+            "correct": 0
+          },
+          {
+            "question": "Which adjective is used to ask a question?",
+            "options": ["what", "that", "this", "those"],
+            "correct": 0
+          },
+          {
+            "question": "Which of the following is NOT an adjective?",
+            "options": ["small", "quickly", "beautiful", "large"],
+            "correct": 1
+          },
+          {
+            "question": "Which adjective shows ownership?",
+            "options": ["my", "ten", "that", "blue"],
+            "correct": 0
+          },
+          {
+            "question": "Which form of the adjective 'good' is used in the sentence: 'This is the best day'?",
+            "options": ["base form", "comparative", "superlative", "none"],
+            "correct": 2
+          },
+          {
+            "question": "Choose the correct adjective: 'He is a ______ boy.'",
+            "options": ["happily", "happy", "happiness", "he"],
+            "correct": 1
+          },
+          {
+            "question": "Which adjective describes a noun's color?",
+            "options": ["tall", "round", "red", "heavy"],
+            "correct": 2
+          }
+        ]
       }
     }
   ]
