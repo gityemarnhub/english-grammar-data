@@ -1,0 +1,614 @@
+{
+  "levels": [
+    {
+      "id": "1",
+      "name": "Parts of Speech",
+      "lessons": [
+        {
+          "id": "1",
+          "name": "Nouns",
+          "explanation": "Nouns are words that name people, places, things, or ideas. They can be singular or plural, countable or uncountable, proper or common.",
+          "example": "cat, London, happiness, water",
+          "quiz": {
+            "question": "Which word is a noun?",
+            "options": ["run", "happy", "city", "quickly"],
+            "correct": 2
+          }
+        },
+        {
+          "id": "2",
+          "name": "Pronouns",
+          "explanation": "Pronouns are words that replace nouns in a sentence. Types include personal, possessive, reflexive, and more.",
+          "example": "he, she, it, themselves, ours",
+          "quiz": {
+            "question": "Which word is a pronoun?",
+            "options": ["dog", "they", "London", "run"],
+            "correct": 1
+          }
+        },
+        {
+          "id": "3",
+          "name": "Verbs",
+          "explanation": "Verbs are words that show action or a state of being. Types include action, linking, and auxiliary verbs.",
+          "example": "run, is, have, think",
+          "quiz": {
+            "question": "Which word is a verb?",
+            "options": ["cat", "blue", "jump", "quickly"],
+            "correct": 2
+          }
+        },
+        {
+          "id": "4",
+          "name": "Adjectives",
+          "explanation": "Adjectives describe or modify nouns. They can show quality, quantity, or comparison.",
+          "example": "big, blue, happier, most beautiful",
+          "quiz": {
+            "question": "Which word is an adjective?",
+            "options": ["run", "happily", "tall", "city"],
+            "correct": 2
+          }
+        },
+        {
+          "id": "5",
+          "name": "Adverbs",
+          "explanation": "Adverbs modify verbs, adjectives, or other adverbs. They often describe how, when, or where something happens.",
+          "example": "quickly, very, here, yesterday",
+          "quiz": {
+            "question": "Which word is an adverb?",
+            "options": ["cat", "run", "quickly", "blue"],
+            "correct": 2
+          }
+        },
+        {
+          "id": "6",
+          "name": "Prepositions",
+          "explanation": "Prepositions show the relationship between a noun (or pronoun) and other words in a sentence.",
+          "example": "in, on, at, under, between",
+          "quiz": {
+            "question": "Which word is a preposition?",
+            "options": ["run", "under", "happy", "cat"],
+            "correct": 1
+          }
+        },
+        {
+          "id": "7",
+          "name": "Conjunctions",
+          "explanation": "Conjunctions connect words, phrases, or clauses.",
+          "example": "and, but, or, because",
+          "quiz": {
+            "question": "Which word is a conjunction?",
+            "options": ["cat", "because", "blue", "run"],
+            "correct": 1
+          }
+        },
+        {
+          "id": "8",
+          "name": "Interjections",
+          "explanation": "Interjections are words or phrases that express strong emotion or surprise.",
+          "example": "Wow! Oh no! Ouch!",
+          "quiz": {
+            "question": "Which is an interjection?",
+            "options": ["cat", "run", "Wow!", "blue"],
+            "correct": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Basic Sentence Structure",
+      "lessons": [
+        {
+          "id": "1",
+          "name": "Subject, Verb, Object",
+          "explanation": "Most English sentences follow the Subject-Verb-Object (SVO) order.",
+          "example": "She (subject) eats (verb) apples (object).",
+          "quiz": {
+            "question": "What is the object in: 'Tom reads a book'?",
+            "options": ["Tom", "reads", "a book", "reads a book"],
+            "correct": 2
+          }
+        },
+        {
+          "id": "2",
+          "name": "Phrases and Clauses",
+          "explanation": "A phrase is a group of words without a subject-verb pair. A clause has a subject and a verb.",
+          "example": "Phrase: in the morning | Clause: She runs.",
+          "quiz": {
+            "question": "Which is a clause?",
+            "options": ["in the park", "after lunch", "he sings", "very quickly"],
+            "correct": 2
+          }
+        },
+        {
+          "id": "3",
+          "name": "Simple Sentences",
+          "explanation": "A simple sentence has one independent clause.",
+          "example": "The dog barks.",
+          "quiz": {
+            "question": "Which is a simple sentence?",
+            "options": ["The dog barks.", "When the dog barks", "Barking loudly", "Because the dog barks"],
+            "correct": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Verb Tenses",
+      "lessons": [
+        {
+          "id": "1",
+          "name": "Present Simple",
+          "explanation": "Present simple tense is used for habits, facts, and general truths.",
+          "example": "She walks to school.",
+          "quiz": {
+            "question": "Which sentence is in present simple?",
+            "options": ["She walked to school.", "She walks to school.", "She is walking to school.", "She will walk to school."],
+            "correct": 1
+          }
+        },
+        {
+          "id": "2",
+          "name": "Past Simple",
+          "explanation": "Past simple tense is used for actions that happened in the past.",
+          "example": "He played football yesterday.",
+          "quiz": {
+            "question": "Which word is in past simple?",
+            "options": ["plays", "playing", "played", "play"],
+            "correct": 2
+          }
+        },
+        {
+          "id": "3",
+          "name": "Future Simple",
+          "explanation": "Future simple tense is used for actions that will happen in the future.",
+          "example": "They will visit Paris.",
+          "quiz": {
+            "question": "Which is future simple?",
+            "options": ["They visit Paris.", "They are visiting Paris.", "They will visit Paris.", "They visited Paris."],
+            "correct": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Articles and Punctuation",
+      "lessons": [
+        {
+          "id": "1",
+          "name": "Articles (a, an, the)",
+          "explanation": "Articles are words that define a noun as specific or unspecific.",
+          "example": "a cat, an apple, the sun",
+          "quiz": {
+            "question": "Which article fits: ___ elephant?",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 1
+          }
+        },
+        {
+          "id": "2",
+          "name": "Basic Punctuation",
+          "explanation": "Punctuation marks are used to separate sentences and clarify meaning.",
+          "example": "period (.), comma (,), question mark (?)",
+          "quiz": {
+            "question": "Which is a punctuation mark?",
+            "options": ["and", ".", "cat", "run"],
+            "correct": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Intermediate Verb Tenses",
+      "lessons": [
+        {
+          "id": "1",
+          "name": "Present Continuous",
+          "explanation": "Present continuous tense describes actions happening now.",
+          "example": "She is reading a book.",
+          "quiz": {
+            "question": "Which is present continuous?",
+            "options": ["She reads.", "She is reading.", "She read.", "She will read."],
+            "correct": 1
+          }
+        },
+        {
+          "id": "2",
+          "name": "Past Continuous",
+          "explanation": "Past continuous tense describes actions that were ongoing in the past.",
+          "example": "They were playing football.",
+          "quiz": {
+            "question": "Which is past continuous?",
+            "options": ["They play.", "They played.", "They are playing.", "They were playing."],
+            "correct": 3
+          }
+        },
+        {
+          "id": "3",
+          "name": "Present Perfect",
+          "explanation": "Present perfect tense connects past actions to the present.",
+          "example": "I have finished my homework.",
+          "quiz": {
+            "question": "Which is present perfect?",
+            "options": ["I finish.", "I finished.", "I have finished.", "I am finishing."],
+            "correct": 2
+          }
+        },
+        {
+          "id": "4",
+          "name": "Past Perfect",
+          "explanation": "Past perfect tense describes an action completed before another past action.",
+          "example": "She had left before he arrived.",
+          "quiz": {
+            "question": "Which is past perfect?",
+            "options": ["She leaves.", "She left.", "She had left.", "She is leaving."],
+            "correct": 2
+          }
+        },
+        {
+          "id": "5",
+          "name": "Future Continuous",
+          "explanation": "Future continuous tense describes actions that will be ongoing in the future.",
+          "example": "They will be traveling tomorrow.",
+          "quiz": {
+            "question": "Which is future continuous?",
+            "options": ["They travel.", "They will travel.", "They will be traveling.", "They traveled."],
+            "correct": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Modal Verbs and Conditionals",
+      "lessons": [
+        {
+          "id": "1",
+          "name": "Modal Verbs",
+          "explanation": "Modal verbs express ability, possibility, permission, or obligation.",
+          "example": "can, could, may, might, must, shall, should, will, would",
+          "quiz": {
+            "question": "Which is a modal verb?",
+            "options": ["run", "can", "cat", "blue"],
+            "correct": 1
+          }
+        },
+        {
+          "id": "2",
+          "name": "Conditionals (Zero, First, Second)",
+          "explanation": "Conditionals describe possible or imaginary situations. Zero: always true. First: real future. Second: unreal present/future.",
+          "example": "If it rains, we get wet. (Zero) | If it rains, we will stay home. (First) | If I were you, I would study. (Second)",
+          "quiz": {
+            "question": "Which is a first conditional?",
+            "options": ["If it rains, we get wet.", "If I were you, I would study.", "If it rains, we will stay home.", "If I had known, I would have come."],
+            "correct": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Sentence Structure and Agreement",
+      "lessons": [
+        {
+          "id": "1",
+          "name": "Passive Voice",
+          "explanation": "In passive voice, the subject receives the action.",
+          "example": "The cake was eaten by Tom.",
+          "quiz": {
+            "question": "Which sentence is passive?",
+            "options": ["Tom eats the cake.", "The cake was eaten by Tom.", "Tom is eating cake.", "Cake eats Tom."],
+            "correct": 1
+          }
+        },
+        {
+          "id": "2",
+          "name": "Relative Clauses",
+          "explanation": "Relative clauses give more information about a noun. They often start with who, which, or that.",
+          "example": "The girl who sings is my sister.",
+          "quiz": {
+            "question": "Which word introduces a relative clause?",
+            "options": ["and", "who", "run", "blue"],
+            "correct": 1
+          }
+        },
+        {
+          "id": "3",
+          "name": "Compound Sentences",
+          "explanation": "Compound sentences have two independent clauses joined by a conjunction.",
+          "example": "I wanted to go, but it was raining.",
+          "quiz": {
+            "question": "Which is a compound sentence?",
+            "options": ["I went home.", "Because it was raining, I went home.", "I wanted to go, but it was raining.", "Went home."],
+            "correct": 2
+          }
+        },
+        {
+          "id": "4",
+          "name": "Complex Sentences",
+          "explanation": "Complex sentences have one independent clause and at least one dependent clause.",
+          "example": "Because it was raining, I stayed inside.",
+          "quiz": {
+            "question": "Which is a complex sentence?",
+            "options": ["It was raining.", "I stayed inside.", "Because it was raining, I stayed inside.", "I stayed."],
+            "correct": 2
+          }
+        },
+        {
+          "id": "5",
+          "name": "Subject-Verb Agreement",
+          "explanation": "The verb must agree in number with its subject.",
+          "example": "She walks. They walk.",
+          "quiz": {
+            "question": "Which is correct?",
+            "options": ["She walk.", "They walks.", "She walks.", "They walking."],
+            "correct": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Modifiers and Determiners",
+      "lessons": [
+        {
+          "id": "1",
+          "name": "Determiners",
+          "explanation": "Determiners come before nouns to clarify what you are talking about.",
+          "example": "this, that, these, those, my, your",
+          "quiz": {
+            "question": "Which is a determiner?",
+            "options": ["cat", "my", "run", "blue"],
+            "correct": 1
+          }
+        },
+        {
+          "id": "2",
+          "name": "Quantifiers",
+          "explanation": "Quantifiers express quantity or amount.",
+          "example": "some, any, many, few, much, little",
+          "quiz": {
+            "question": "Which is a quantifier?",
+            "options": ["cat", "many", "run", "blue"],
+            "correct": 1
+          }
+        },
+        {
+          "id": "3",
+          "name": "Comparatives and Superlatives",
+          "explanation": "Comparatives compare two things; superlatives compare more than two.",
+          "example": "bigger, more beautiful, the biggest, the most beautiful",
+          "quiz": {
+            "question": "Which is a superlative?",
+            "options": ["big", "bigger", "the biggest", "as big as"],
+            "correct": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Reported Speech and Gerunds",
+      "lessons": [
+        {
+          "id": "1",
+          "name": "Reported Speech",
+          "explanation": "Reported speech is used to tell what someone else said.",
+          "example": "She said that she was tired.",
+          "quiz": {
+            "question": "Which is reported speech?",
+            "options": ["She says, 'I am tired.'", "She said that she was tired.", "I am tired.", "She is tired."],
+            "correct": 1
+          }
+        },
+        {
+          "id": "2",
+          "name": "Gerunds and Infinitives",
+          "explanation": "A gerund is a verb ending in -ing used as a noun. An infinitive is 'to' + base verb.",
+          "example": "Swimming is fun. I want to swim.",
+          "quiz": {
+            "question": "Which is a gerund?",
+            "options": ["to swim", "swimming", "swim", "swims"],
+            "correct": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Advanced Grammar Topics",
+      "lessons": [
+        {
+          "id": "1",
+          "name": "Present Perfect Continuous",
+          "explanation": "This tense shows an action that started in the past and is still continuing.",
+          "example": "She has been studying for two hours.",
+          "quiz": {
+            "question": "Which is present perfect continuous?",
+            "options": ["She studies.", "She has studied.", "She has been studying.", "She will study."],
+            "correct": 2
+          }
+        },
+        {
+          "id": "2",
+          "name": "Past Perfect Continuous",
+          "explanation": "This tense shows an action that was ongoing in the past before another past action.",
+          "example": "He had been working before the rain started.",
+          "quiz": {
+            "question": "Which is past perfect continuous?",
+            "options": ["He worked.", "He was working.", "He had worked.", "He had been working."],
+            "correct": 3
+          }
+        },
+        {
+          "id": "3",
+          "name": "Future Perfect",
+          "explanation": "This tense shows an action that will be completed before a certain future time.",
+          "example": "She will have finished by noon.",
+          "quiz": {
+            "question": "Which is future perfect?",
+            "options": ["She finishes.", "She will finish.", "She will have finished.", "She finished."],
+            "correct": 2
+          }
+        },
+        {
+          "id": "4",
+          "name": "Conditionals (Third, Mixed)",
+          "explanation": "Third conditional is for unreal past. Mixed conditional is for past condition with present result.",
+          "example": "If I had known, I would have come. (Third) | If I had studied, I would be rich. (Mixed)",
+          "quiz": {
+            "question": "Which is a third conditional?",
+            "options": ["If it rains, we get wet.", "If I had known, I would have come.", "If it rains, we will stay home.", "If I were you, I would study."],
+            "correct": 1
+          }
+        },
+        {
+          "id": "5",
+          "name": "Subjunctive Mood",
+          "explanation": "The subjunctive is used to express wishes, suggestions, or hypothetical situations.",
+          "example": "If I were you, I would go.",
+          "quiz": {
+            "question": "Which sentence uses the subjunctive?",
+            "options": ["I am happy.", "If I were you, I would go.", "He goes to school.", "She is running."],
+            "correct": 1
+          }
+        },
+        {
+          "id": "6",
+          "name": "Inversion",
+          "explanation": "Inversion is changing the normal word order, often for emphasis or in questions.",
+          "example": "Never have I seen such beauty.",
+          "quiz": {
+            "question": "Which sentence uses inversion?",
+            "options": ["I have never seen such beauty.", "Never have I seen such beauty.", "She is beautiful.", "Such beauty I have seen."],
+            "correct": 1
+          }
+        },
+        {
+          "id": "7",
+          "name": "Noun Clauses",
+          "explanation": "A noun clause acts as a noun in a sentence.",
+          "example": "What you said is true.",
+          "quiz": {
+            "question": "Which is a noun clause?",
+            "options": ["quickly", "What you said", "in the park", "the dog"],
+            "correct": 1
+          }
+        },
+        {
+          "id": "8",
+          "name": "Adverbial Clauses",
+          "explanation": "Adverbial clauses modify verbs, adjectives, or adverbs and answer questions like when, where, why, or how.",
+          "example": "I will call you when I arrive.",
+          "quiz": {
+            "question": "Which is an adverbial clause?",
+            "options": ["the dog", "to the park", "when I arrive", "quickly"],
+            "correct": 2
+          }
+        },
+        {
+          "id": "9",
+          "name": "Reduced Clauses",
+          "explanation": "Reduced clauses are shorter forms of dependent clauses.",
+          "example": "While driving, she listened to music. (Instead of: While she was driving...)",
+          "quiz": {
+            "question": "Which is a reduced clause?",
+            "options": ["She was driving.", "While driving, she listened to music.", "She listened to music.", "Music was listened to."],
+            "correct": 1
+          }
+        },
+        {
+          "id": "10",
+          "name": "Participle Clauses",
+          "explanation": "Participle clauses use present or past participles to shorten sentences.",
+          "example": "Feeling tired, he went to bed.",
+          "quiz": {
+            "question": "Which is a participle clause?",
+            "options": ["He was tired.", "Feeling tired, he went to bed.", "He went to bed.", "He is feeling tired."],
+            "correct": 1
+          }
+        },
+        {
+          "id": "11",
+          "name": "Causatives",
+          "explanation": "Causatives show that someone causes another person to do something.",
+          "example": "She had her car washed.",
+          "quiz": {
+            "question": "Which sentence is causative?",
+            "options": ["She washed her car.", "She had her car washed.", "She is washing her car.", "Her car was washed."],
+            "correct": 1
+          }
+        },
+        {
+          "id": "12",
+          "name": "Ellipsis",
+          "explanation": "Ellipsis is leaving out words that are understood from context.",
+          "example": "She can play the guitar, and he can too. (play the guitar is omitted)",
+          "quiz": {
+            "question": "Which sentence uses ellipsis?",
+            "options": ["She can play the guitar, and he can too.", "She can play the guitar.", "He can play the guitar.", "They play guitar."],
+            "correct": 0
+          }
+        },
+        {
+          "id": "13",
+          "name": "Correlative Conjunctions",
+          "explanation": "Correlative conjunctions are pairs of conjunctions that work together.",
+          "example": "either...or, neither...nor, both...and",
+          "quiz": {
+            "question": "Which is a correlative conjunction?",
+            "options": ["and", "or", "either...or", "but"],
+            "correct": 2
+          }
+        },
+        {
+          "id": "14",
+          "name": "Advanced Prepositions",
+          "explanation": "Advanced prepositions cover more complex relationships and usage.",
+          "example": "according to, in spite of, on behalf of",
+          "quiz": {
+            "question": "Which is an advanced preposition?",
+            "options": ["in", "on", "according to", "at"],
+            "correct": 2
+          }
+        },
+        {
+          "id": "15",
+          "name": "Phrasal Verbs",
+          "explanation": "Phrasal verbs are verbs combined with prepositions or adverbs.",
+          "example": "give up, look after, run into",
+          "quiz": {
+            "question": "Which is a phrasal verb?",
+            "options": ["run", "give", "give up", "look"],
+            "correct": 2
+          }
+        },
+        {
+          "id": "16",
+          "name": "Idioms and Expressions",
+          "explanation": "Idioms are phrases with meanings different from their individual words.",
+          "example": "It's raining cats and dogs.",
+          "quiz": {
+            "question": "Which is an idiom?",
+            "options": ["It is raining.", "Cats and dogs are outside.", "It's raining cats and dogs.", "Dogs are wet."],
+            "correct": 2
+          }
+        },
+        {
+          "id": "17",
+          "name": "Advanced Punctuation",
+          "explanation": "Advanced punctuation includes dashes, parentheses, and more.",
+          "example": "He went to the store – and bought milk. (dash)",
+          "quiz": {
+            "question": "Which is an advanced punctuation mark?",
+            "options": ["period", "comma", "dash", "question mark"],
+            "correct": 2
+          }
+        }
+      ]
+    }
+  ]
+}
